@@ -1,0 +1,15 @@
+/Users/user/Desktop/Attestation/Attest/bin/Debug/net6.0/Attest
+/Users/user/Desktop/Attestation/Attest/bin/Debug/net6.0/Attest.deps.json
+/Users/user/Desktop/Attestation/Attest/bin/Debug/net6.0/Attest.runtimeconfig.json
+/Users/user/Desktop/Attestation/Attest/bin/Debug/net6.0/Attest.dll
+/Users/user/Desktop/Attestation/Attest/bin/Debug/net6.0/Attest.pdb
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.csproj.AssemblyReference.cache
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.AssemblyInfoInputs.cache
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.AssemblyInfo.cs
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.dll
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/refint/Attest.dll
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.pdb
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/Attest.genruntimeconfig.cache
+/Users/user/Desktop/Attestation/Attest/obj/Debug/net6.0/ref/Attest.dll
